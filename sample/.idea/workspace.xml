@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd91469-c1c6-4cbb-b577-bfcc7d62c945" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TvbFilms/app/src/main/java/com/sw/tvbfilms/ActionBarActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TvbFilms/app/src/main/java/com/sw/tvbfilms/FullscreenVideoViewApp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TvbFilms/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FINISHED_FLUTTER_PROJECTS" beforeDir="false" afterPath="$PROJECT_DIR$/../../FINISHED_FLUTTER_PROJECTS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/5MinuteCraft.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/5MinuteCraftFamily.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/5MinuteCraftGirly.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/5MinuteCraftKids.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/5MinuteCraftMen.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/BrightSid.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/Comedy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/Comedy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/Doraemon.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/FapTV.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/HkRetailFilms.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/HkRetailFilms.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/KhoiNghiep.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/Kicm.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/Kicm.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/OldSeriesFilms.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/OldSeriesFilms.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/FIREBASE/functions/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/screens/Home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/screens/Home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/screens/Screen1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/screens/Screen1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/screens/Screen2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/lib/screens/Screen2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/GameAnimation/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/speech_recognition" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/speech_recognition" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/sytody" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/SAMPLE/sytody" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/my-release-key.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/java/com/swtechinsider/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/key.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/images/index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Flutter/flutter_export_environment.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/enums/PlayerStateEnum.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/models/Ads.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/models/Constant.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/models/DetailAgrs.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/models/ListVideoAgrs.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/models/PlayListInfo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/models/PlayListInfos.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/screens/About.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/screens/Detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/screens/DrawerMenu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/screens/Home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/screens/ListTypes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/screens/ListVideos.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/screens/PlayerUI.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/YoutubePlayerValue.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/controls.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/duration_formatter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/player.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/progress_bar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/youtube_player_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/youtube_player_flags.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/youtube_player_flutter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/lib/youtube_player/youtube_utils.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/TechInsider/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FLUTTER/tvb/lib/screens/FbDetail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../FLUTTER/tvb/lib/screens/FbDetail.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TvbFilms" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd91469-c1c6-4cbb-b577-bfcc7d62c945" name="Default Changelist" comment="" />
+      <created>1575605808988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575605808988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32977587" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32899022" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
